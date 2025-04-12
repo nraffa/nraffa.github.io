@@ -43,16 +43,24 @@ Below, I've outlined my professional journey so far:
 ## Education
 - Completed a Master's degree in Industrial Engineering at ITBA, Buenos Aires Institute of Technology.
 - Certified AWS Cloud Practitioner
-- AWS Machine Learning Specialty (WIP)
 - ⁠Agile Project Management (UTN)
 
 ## Work Experience
 
-### Five1 @ Senior Data Scientist | GenAI Technical Lead (Feb. 2024 - Present)
+### Five1 @ Senior Data Scientist Consultant | GenAI Technical Lead (Feb. 2024 - Present)
 - Leading the topic Generative AI in the company.
 - Generated and conducted Workshops for clients as Pre-Sales activity, leading to the acquirement of projects for the company. 
-- Currently working in multiple Generative AI projects, focus points on advanced RAG Systems and Multi-Agentic designed applications using Langgraph.
+- Currently working in multiple Generative AI projects, focus points on advanced RAG Systems and Multi-Agentic designed applications.
 - Engaged in various data science projects in as consultant, focusing on ML-related tasks, delivering solutions to clients.
+
+### Masterschool @ AI Role Mentor (Mar.2025 - Present)
+- Mentor students by guiding them through GenAI projects, ensuring timely delivery, code quality.
+- Mentor students in technical and behavioral interviews to support them getting their first job in the industry.
+
+### Solvit @ AI Full Stack Engineer | Consultant (Nov.2023 - Present)
+- Providing consultancy and software development services with special AI focus.
+- Current development of [Archilo](https://archilo.besolvit.com/): end-to-end GenAI solution for invoice processing.
+- Empowering small to mid size businesses with AI to maximize business outcome and make their life easier.
 
 ### Check24 @ Data Engineer / Data Scientist / Frontend Developer (June 2022 - Nov. 2023)
 - Involved in various backend and frontend tasks, contributing to projects like a "Next Product To Buy" Recommender System, predicting the financial strength of clients for precise mailing campaigns and the brand affinity for an improved ranking system.
