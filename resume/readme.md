@@ -41,53 +41,41 @@ Senior Generative AI Engineer and consultant delivering production LLM systems u
 
 ## Professional Experience
 
-### The World Bank  
+**The World Bank @ Sr Full Stack AI Engineer | Consultant (Oct 2025 – Present)**  
 *Remote, Argentina*  
-**Sr Full Stack AI Engineer | Consultant**  
-*Oct 2025 – Present*  
 
 - Consultant for The World Bank, working with Tabiya core dev team to implement Compass, their AI Conversational Agent for Personalized Skill Discovery in Argentina for local NGOs.  
 - Compass is a generative AI agent designed to engage users in exploratory conversations to gather information and identify their unique skills, focusing on abilities over credentials, including informal and unpaid work.  
 
-### Five1 GmbH  
+**Five1 GmbH @ Sr Full Stack AI Engineer | GenAI Technical Lead | Consultant (Feb 2024 – Oct 2025)**  
 *Remote, Germany*  
-**Sr Full Stack AI Engineer | GenAI Technical Lead | Consultant**  
-*February 2024 – Oct 2025*  
 
 - Developed and deployed multilingual RAG architectures and multi-agent GenAI applications for enterprise clients using LangChain, LangGraph, and vector databases, ensuring scalability and production readiness.  
 - Led workshops with non-technical stakeholders to identify AI adoption opportunities, leading to project acquisitions.  
 - Contributed to explainable GenAI applications across regulated sectors.  
 
-### Masterschool  
+**Masterschool @ AI Role Mentor (Mar 2025 – Present)**  
 *Remote*  
-**AI Role Mentor**  
-*March 2025 – Present*  
 
 - Mentored students on GenAI projects, ensuring timely delivery, code quality, and job readiness.  
 - Prepared candidates for technical and behavioral interviews to bridge into industry roles.  
 
-### Solvit  
+**Solvit @ AI Full Stack Engineer | Freelance (Nov 2023 – Present)**  
 *Remote*  
-**AI Full Stack Engineer | Freelance**  
-*November 2023 – Present*  
 
 - Provided consultancy and software development services with a special focus on AI.  
 - Built AInvoice: invoice-processing service handling varied formats with VLM + LLM pipelines, improving extraction accuracy.  
 - Built ArchiLeads: AI assistants for WhatsApp integrating with CRMs to expand access for small businesses.  
 
-### Check24 GmbH  
+**Check24 GmbH @ Data Engineer | Data Scientist | Frontend Developer (Jun 2022 – Nov 2023)**  
 *Munich, Germany*  
-**Data Engineer | Data Scientist | Frontend Developer**  
-*June 2022 – November 2023*  
 
 - Created a prediction model for financial strength of customers increasing conversion.  
 - Built recommender systems for personalized product ranking.  
 - Developed frontend features for an internal custom agent tool.  
 
-### Wabi Project  
+**Wabi Project @ BI Manager | B2B Product Owner (May 2021 – May 2022)**  
 *Buenos Aires, Argentina*  
-**BI Manager | B2B Product Owner**  
-*May 2021 – May 2022*  
 
 - Automated data analysis reports with Apache Airflow on fraud detection, revenue, and marketing KPIs.  
 - Prioritized features and managed stakeholders in a development team for a B2B digital grocery shopping platform.  
