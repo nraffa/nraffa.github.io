@@ -83,32 +83,28 @@ Senior Generative AI Engineer and consultant delivering production LLM systems u
 
 ## Education
 
-**Technological Institute of Buenos Aires (ITBA)**  
-Master in Industrial Engineering  
-*March 2015 – Dec 2020*
+**Technological Institute of Buenos Aires (ITBA) @ Master in Industrial Engineering (Mar 2015 – Dec 2020)**
 
-**AWS**  
-Cloud Practitioner  
-*March 2024*
+**AWS @ Cloud Practitioner (Mar 2024)**
 
 ## Projects
 
-### RAG Based Whatsapp Chatbot (E-commerce)  
+**RAG Based Whatsapp Chatbot (E-commerce) @ GenAI Engineer (2024)**  
 - Automated Q&A for WhatsApp channel based on provided documents using lightweight RAG chatbot supporting multiple languages.  
 - Infrastructure done in Terraform and deployed on AWS, orchestration with Langgraph.  
 
-### Archilo: Automated Invoice Processing Solution  
+**Archilo: Automated Invoice Processing Solution @ Co-Founder (2023 – Present)**  
 - GenAI application using LLMs, VLMs, and Agents for flexible invoice processing with accurate data extraction.  
 - Built under [Solvit](https://besolvit.com/) — product site: [archilo.besolvit.com](https://archilo.besolvit.com/).  
 
-### BPMN Generation Tool (Process Management)  
+**BPMN Generation Tool (Process Management) @ GenAI Engineer (2024)**  
 - Automated invoice processing application leveraging LLMs, VLMs, and Agents for various invoice formats.  
 
-### Reusable RAG Template Application (Energy | Regulatory Sector)  
+**Reusable RAG Template Application (Energy | Regulatory Sector) @ GenAI Engineer (2024)**  
 - Developed reusable RAG template for document indexing and semantic querying.  
 - Automated change detection in regulatory documents year-over-year to improve review time and reduce manual work.  
 
-### Solar Panel Installation Analysis Tool (Energy Sector)  
+**Solar Panel Installation Analysis Tool (Energy Sector) @ GenAI Engineer (2024)**  
 - Developed an analysis tool automating schematic review of solar installations using VLMs and OCR to detect and interpret electrical schematics.  
 
 
