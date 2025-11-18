@@ -21,81 +21,128 @@
 </div>
 <br>
 
-# Industrial Engineer | Full Stack AI Engineer | Data Scientist 
-Welcome to my Profile! 👋
+# Ing. Nicolas Raffa Pirra
 
-Have a look at my latest [project](https://archilo.besolvit.com/)! If interested, feel free to contact me :) 
+**Senior Generative AI Engineer | LLM Systems · RAG · Multi-Agent Architect**  
+Remote 🌍
+Email: nraffapirra@besolvit.com | [LinkedIn](https://www.linkedin.com/in/nraffa/)
 
-I'm Nicolas, a passionate data scientist with a diverse background in industrial engineering, business intelligence, data engineering and software development. I have accumulated experience in executing data projects, showcasing proficiency in various areas such as exploratory data analysis, data processing, and the creation of machine learning models. Currenlty I am leading the development of Generative AI projects in Five1. Additionally, I specialize in frontend software development using Type/Javascript and React.
+Senior Generative AI Engineer and consultant delivering production LLM systems using Python, LangChain/LlamaIndex, RAG and multi-agent patterns. Hands-on in prompt engineering, fine-tuning, vector DBs and cloud AI services, built scalable prototypes to client deployment with clear technical communication.
 
 
-## Skills & Tech Stack
-- Data Science: Exploratory Data Analysis, classical Machine Learning techniques, Recommendation Systems, Computer Vision, deep learning, LLMs, VLMs, RAG pipelines, Multi-Agentic Systems, Fine-Tuning.
-- Python:  visualization, data processing and modelling, as well as optimization and parallelization, Pytorch, Tensorflow, scikit-learn, Pandas, Matplotlib, Langchain, Langgraph, LLMs, ChromaDB, Streamlit, Chainlit
-- Tools and frameworks:  Git, Docker, Jenkins, Terraform, Grafana, Prometheus
-- Data Engineering:  SQL, ETLs modelling, Data Architecture in various DBs such as Exasol and Postgres
-- Cloud: AWS and Azure cloud services
-- Backend Development: FastAPI
-- Frontend development: HTML, CSS, Type/Javascript, React (Ant D, MUI) , React Native
+## Areas of Expertise
 
-Below, I've outlined my professional journey so far:
+- Frontend and Backend: React, React Native, TypeScript/JavaScript, Python, FastAPI (REST APIs), Pydantic
+- Database: PostgreSQL, MongoDB/Atlas, DynamoDB, Aurora  
+- Cloud & DevOps: GCP, AWS, Azure, Terraform, Pulumi, Docker, Github Actions, CI/CD  
+- GenAI & Conversational AI: Langchain, Langgraph, RAG Pipelines, Multi-Agentic Systems, LLMs, VLMs, Prompt Engineering, Chatbots, Langfuse, Langserve, MCP, Fine-Tuning  
+- Data Science: EDA, classical ML, Recommendation Systems, Deep Learning  
+
+
+## Professional Experience
+
+### The World Bank  
+*Remote, Argentina*  
+**Sr Full Stack AI Engineer | Consultant**  
+*Oct 2025 – Present*  
+
+- Consultant for The World Bank, working with Tabiya core dev team to implement Compass, their AI Conversational Agent for Personalized Skill Discovery in Argentina for local NGOs.  
+- Compass is a generative AI agent designed to engage users in exploratory conversations to gather information and identify their unique skills, focusing on abilities over credentials, including informal and unpaid work.  
+
+### Five1 GmbH  
+*Remote, Germany*  
+**Sr Full Stack AI Engineer | GenAI Technical Lead | Consultant**  
+*February 2024 – Oct 2025*  
+
+- Developed and deployed multilingual RAG architectures and multi-agent GenAI applications for enterprise clients using LangChain, LangGraph, and vector databases, ensuring scalability and production readiness.  
+- Led workshops with non-technical stakeholders to identify AI adoption opportunities, leading to project acquisitions.  
+- Contributed to explainable GenAI applications across regulated sectors.  
+
+### Masterschool  
+*Remote*  
+**AI Role Mentor**  
+*March 2025 – Present*  
+
+- Mentored students on GenAI projects, ensuring timely delivery, code quality, and job readiness.  
+- Prepared candidates for technical and behavioral interviews to bridge into industry roles.  
+
+### Solvit  
+*Remote*  
+**AI Full Stack Engineer | Freelance**  
+*November 2023 – Present*  
+
+- Provided consultancy and software development services with a special focus on AI.  
+- Built AInvoice: invoice-processing service handling varied formats with VLM + LLM pipelines, improving extraction accuracy.  
+- Built ArchiLeads: AI assistants for WhatsApp integrating with CRMs to expand access for small businesses.  
+
+### Check24 GmbH  
+*Munich, Germany*  
+**Data Engineer | Data Scientist | Frontend Developer**  
+*June 2022 – November 2023*  
+
+- Created a prediction model for financial strength of customers increasing conversion.  
+- Built recommender systems for personalized product ranking.  
+- Developed frontend features for an internal custom agent tool.  
+
+### Wabi Project  
+*Buenos Aires, Argentina*  
+**BI Manager | B2B Product Owner**  
+*May 2021 – May 2022*  
+
+- Automated data analysis reports with Apache Airflow on fraud detection, revenue, and marketing KPIs.  
+- Prioritized features and managed stakeholders in a development team for a B2B digital grocery shopping platform.  
+
 
 ## Education
-- Completed a Master's degree in Industrial Engineering at ITBA, Buenos Aires Institute of Technology.
-- Certified AWS Cloud Practitioner
-- ⁠Agile Project Management (UTN)
 
-## Work Experience
+**Technological Institute of Buenos Aires (ITBA)**  
+Master in Industrial Engineering  
+*March 2015 – Dec 2020*
 
-### Five1 @ Senior Data Scientist Consultant | GenAI Technical Lead (Feb. 2024 - Present)
-- Leading the topic Generative AI in the company.
-- Generated and conducted Workshops for clients as Pre-Sales activity, leading to the acquirement of projects for the company. 
-- Currently working in multiple Generative AI projects, focus points on advanced RAG Systems and Multi-Agentic designed applications.
-- Engaged in various data science projects in as consultant, focusing on ML-related tasks, delivering solutions to clients.
-
-### Masterschool @ AI Role Mentor (Mar.2025 - Present)
-- Mentor students by guiding them through GenAI projects, ensuring timely delivery, code quality.
-- Mentor students in technical and behavioral interviews to support them getting their first job in the industry.
-
-### Solvit @ AI Full Stack Engineer | Consultant (Nov.2023 - Present)
-- Providing consultancy and software development services with special AI focus.
-- Current development of [Archilo](https://archilo.besolvit.com/): end-to-end GenAI solution for invoice processing.
-- Empowering small to mid size businesses with AI to maximize business outcome and make their life easier.
-
-### Check24 @ Data Engineer / Data Scientist / Frontend Developer (June 2022 - Nov. 2023)
-- Involved in various backend and frontend tasks, contributing to projects like a "Next Product To Buy" Recommender System, predicting the financial strength of clients for precise mailing campaigns and the brand affinity for an improved ranking system.
-- Worked on front-end tasks for an internal Customer Agent Tool using Typescript and React.
-
-### Memorable @ AI Residence (May 2022 - June 2022)
-- Participated in a one-month program, supporting in the development of computer vision models on the cloud to enhance cognitive impact in images for effective advertisements.
-
-### Wabi Project @ Business Intelligence Manager (Dec. 2021 - May 2022)
-- Took on the role of Business Intelligence Manager, enhancing Python skills for data analysis and optimizing processes.
-- Reports automated with Apache Airflow for topics including fraud detection, revenue analysis, and marketing KPIs.
-
-### Wabi Project @ B2B Product Business Manager (May 2021 - May 2022)
-- Participated in the development team for a B2B digital grocery shopping platform, of a Coca Cola-funded startup, as Product Owner, gaining leadership skills, working in agile methodology and prioritizing the backlog. 
-
-### Air Liquide @ Data Analyst (April 2020 - Jan 2021)
-- Developed unified dashboard reports using Power BI, Excel Macros, for the entire sales team of the country (🇦🇷).
+**AWS**  
+Cloud Practitioner  
+*March 2024*
 
 ## Projects
 
-### Archilo by [Solvit](https://besolvit.com/) @Co-Founder
-- Leveraging LLMs, VLMs and Agents, developed a genAI application for automated invoice processing, with high flexibility for the invoice format and structure.
-- [Have a look!](https://archilo.besolvit.com/)
-- [Solvit - AI Tailored Solutions](https://besolvit.com/)
+### RAG Based Whatsapp Chatbot (E-commerce)  
+- Automated Q&A for WhatsApp channel based on provided documents using lightweight RAG chatbot supporting multiple languages.  
+- Infrastructure done in Terraform and deployed on AWS, orchestration with Langgraph.  
 
-### The Legal Compass @ Co-Founder
-- Leveraging LLMs, developed a gen AI chatbot enhanced by using RAG pipelines in order to deliver through factual knowledge, a more precise and agile methodology of work for lawyers.
-- [Have a look!](https://brujula-legal.my.canva.site/en)
+### Archilo: Automated Invoice Processing Solution  
+- GenAI application using LLMs, VLMs, and Agents for flexible invoice processing with accurate data extraction.  
+- Built under [Solvit](https://besolvit.com/) — product site: [archilo.besolvit.com](https://archilo.besolvit.com/).  
 
-### Malerei @ Co-Founder
-- Founded a small business selling digital art done with Neural Style Transfer.
+### BPMN Generation Tool (Process Management)  
+- Automated invoice processing application leveraging LLMs, VLMs, and Agents for various invoice formats.  
 
-## Current Focus
-Revolves around ML-related projects, driven by the endless possibilities it offers. I'm particularly fascinated by advancements in Gen AI.
+### Reusable RAG Template Application (Energy | Regulatory Sector)  
+- Developed reusable RAG template for document indexing and semantic querying.  
+- Automated change detection in regulatory documents year-over-year to improve review time and reduce manual work.  
 
-Feel free to reach out for collaboration, discussions or work related to data science, machine learning, or any exciting project ideas! 🚀
+### Solar Panel Installation Analysis Tool (Energy Sector)  
+- Developed an analysis tool automating schematic review of solar installations using VLMs and OCR to detect and interpret electrical schematics.  
 
-*Note: This README serves as a snapshot of my professional journey and will be periodically updated.*
+
+## Social Impact Work
+
+### Solidariamente  
+*Buenos Aires, Argentina*  
+**Project Analyst**  
+*September 2021 – December 2021*  
+Optimized processes and organization for an NGO providing school supplies to children.
+
+### Sumando - Domingo Savio School (La Cava)  
+*Buenos Aires, Argentina*  
+**Student Tutor | Tutor Management**  
+*August 2018 – December 2021*  
+Participated in student support organization aimed at preventing school dropout.
+
+### Techo para mi Pais  
+*Buenos Aires, Argentina*  
+**Construction Worker (Volunteer)**  
+Participated in building houses for families in need.
+
+---
+
+**Solvit | Tailored AI Solutions**

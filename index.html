@@ -8,28 +8,39 @@
 </head>
 <body>
   <header>
-    <div class="logo">
-        <img class="img" src="assets/img/logo2.png" alt="Nicolas Raffa Pirra">
-    </div>
-  <div class="navBar">
-    <nav >
-        <!-- Calendly link widget begin -->
-        <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-        <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-        <a class="navText" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/nraffapirra-besolvit/introduction-meeting'});return false;">Call</a>
-        <!-- Calendly link widget end -->
+    <div class="logo">N|R|P</div>
+    <nav class="header-nav">
+      <!-- Calendly link widget begin -->
+      <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+      <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+      <a class="navText" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/nraffapirra-besolvit/introduction-meeting'});return false;">Call</a>
+      <!-- Calendly link widget end -->
       <a class="navText" href="https://nicolasraffapirra.com/resume">Resume</a>
     </nav>
-  </div>
   </header>
   <main>
-    <div class="main-heading">
-      <img class="img" src="assets/img/qr.png" alt="QR Code" width="50" height="50">
-      <h1>data driven.</h1>
-      <h1>user focused.</h1>
-      <h1>value based.</h1>
-    </div>
+    <div class="main-content">
+      
+      <section class="product-card" aria-label="Invoice AI product">
+        <div class="product-info">
+          <p class="product-tag">Link to this page :) </p>
+          <p class="product-copy">Tap or scan.</p>
+        </div>
+        <a class="qr-link" href="https://invoice.archilo.app/" target="_blank" rel="noreferrer">
+          <img src="assets/img/qr_ainvoice.png" alt="Invoice automation QR">
+        </a>
+      </section>
 
+      <section class="product-card" aria-label="Invoice AI product">
+        <div class="product-info">
+          <p class="product-tag">Invoice Processing · Powered by GenAI</p>
+          <p class="product-copy">Tap or scan to explore AInvoice.</p>
+        </div>
+        <a class="qr-link" href="https://invoice.archilo.app/" target="_blank" rel="noreferrer">
+          <img src="assets/img/qr_ainvoice.png" alt="Invoice automation QR">
+        </a>
+      </section>
+    </div>
   </main>
 </body>
 </html>
