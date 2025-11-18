@@ -92,6 +92,7 @@ Senior Generative AI Engineer and consultant delivering production LLM systems u
 **RAG Based Whatsapp Chatbot (E-commerce) @ GenAI Engineer (2024)**  
 - Automated Q&A for WhatsApp channel based on provided documents using lightweight RAG chatbot supporting multiple languages.  
 - Infrastructure done in Terraform and deployed on AWS, orchestration with Langgraph.  
+- Live demo (WhatsApp): [wa.me](https://wa.me/5491123952911)  
 
 **Archilo: Automated Invoice Processing Solution @ Co-Founder (2023 – Present)**  
 - GenAI application using LLMs, VLMs, and Agents for flexible invoice processing with accurate data extraction.  
